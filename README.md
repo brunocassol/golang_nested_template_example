@@ -1,4 +1,4 @@
-# Example of nested template in Go
+# Example of nested templates in Go
 
 main.go:
 
